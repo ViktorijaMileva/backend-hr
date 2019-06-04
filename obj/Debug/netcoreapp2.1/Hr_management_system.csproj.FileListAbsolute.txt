@@ -1,0 +1,56 @@
+C:\Users\PC\Desktop\Project_wp\Hr_management_system\bin\Debug\netcoreapp2.1\Hr_management_system.deps.json
+C:\Users\PC\Desktop\Project_wp\Hr_management_system\bin\Debug\netcoreapp2.1\Hr_management_system.runtimeconfig.json
+C:\Users\PC\Desktop\Project_wp\Hr_management_system\bin\Debug\netcoreapp2.1\Hr_management_system.runtimeconfig.dev.json
+C:\Users\PC\Desktop\Project_wp\Hr_management_system\bin\Debug\netcoreapp2.1\Hr_management_system.dll
+C:\Users\PC\Desktop\Project_wp\Hr_management_system\bin\Debug\netcoreapp2.1\Hr_management_system.pdb
+C:\Users\PC\Desktop\Project_wp\Hr_management_system\obj\Debug\netcoreapp2.1\Hr_management_system.csprojAssemblyReference.cache
+C:\Users\PC\Desktop\Project_wp\Hr_management_system\obj\Debug\netcoreapp2.1\Hr_management_system.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Project_wp\Hr_management_system\obj\Debug\netcoreapp2.1\Hr_management_system.RazorAssemblyInfo.cache
+C:\Users\PC\Desktop\Project_wp\Hr_management_system\obj\Debug\netcoreapp2.1\Hr_management_system.RazorAssemblyInfo.cs
+C:\Users\PC\Desktop\Project_wp\Hr_management_system\obj\Debug\netcoreapp2.1\Hr_management_system.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\Project_wp\Hr_management_system\obj\Debug\netcoreapp2.1\Hr_management_system.AssemblyInfo.cs
+C:\Users\PC\Desktop\Project_wp\Hr_management_system\obj\Debug\netcoreapp2.1\Hr_management_system.RazorTargetAssemblyInfo.cache
+C:\Users\PC\Desktop\Project_wp\Hr_management_system\obj\Debug\netcoreapp2.1\Hr_management_system.dll
+C:\Users\PC\Desktop\Project_wp\Hr_management_system\obj\Debug\netcoreapp2.1\Hr_management_system.pdb
+C:\Users\Gorjan\Desktop\dotnet\Project_wp\wp_project\wp_project\bin\Debug\netcoreapp2.1\Hr_management_system.deps.json
+C:\Users\Gorjan\Desktop\dotnet\Project_wp\wp_project\wp_project\bin\Debug\netcoreapp2.1\Hr_management_system.runtimeconfig.json
+C:\Users\Gorjan\Desktop\dotnet\Project_wp\wp_project\wp_project\bin\Debug\netcoreapp2.1\Hr_management_system.runtimeconfig.dev.json
+C:\Users\Gorjan\Desktop\dotnet\Project_wp\wp_project\wp_project\bin\Debug\netcoreapp2.1\Hr_management_system.dll
+C:\Users\Gorjan\Desktop\dotnet\Project_wp\wp_project\wp_project\bin\Debug\netcoreapp2.1\Hr_management_system.pdb
+C:\Users\Gorjan\Desktop\dotnet\Project_wp\wp_project\wp_project\obj\Debug\netcoreapp2.1\Hr_management_system.csprojAssemblyReference.cache
+C:\Users\Gorjan\Desktop\dotnet\Project_wp\wp_project\wp_project\obj\Debug\netcoreapp2.1\Hr_management_system.csproj.CoreCompileInputs.cache
+C:\Users\Gorjan\Desktop\dotnet\Project_wp\wp_project\wp_project\obj\Debug\netcoreapp2.1\Hr_management_system.RazorAssemblyInfo.cache
+C:\Users\Gorjan\Desktop\dotnet\Project_wp\wp_project\wp_project\obj\Debug\netcoreapp2.1\Hr_management_system.RazorAssemblyInfo.cs
+C:\Users\Gorjan\Desktop\dotnet\Project_wp\wp_project\wp_project\obj\Debug\netcoreapp2.1\Hr_management_system.AssemblyInfoInputs.cache
+C:\Users\Gorjan\Desktop\dotnet\Project_wp\wp_project\wp_project\obj\Debug\netcoreapp2.1\Hr_management_system.AssemblyInfo.cs
+C:\Users\Gorjan\Desktop\dotnet\Project_wp\wp_project\wp_project\obj\Debug\netcoreapp2.1\Hr_management_system.RazorTargetAssemblyInfo.cache
+C:\Users\Gorjan\Desktop\dotnet\Project_wp\wp_project\wp_project\obj\Debug\netcoreapp2.1\Hr_management_system.dll
+C:\Users\Gorjan\Desktop\dotnet\Project_wp\wp_project\wp_project\obj\Debug\netcoreapp2.1\Hr_management_system.pdb
+C:\Users\Gorjan\Desktop\dotnet2\wp_project\bin\Debug\netcoreapp2.1\Hr_management_system.deps.json
+C:\Users\Gorjan\Desktop\dotnet2\wp_project\bin\Debug\netcoreapp2.1\Hr_management_system.runtimeconfig.json
+C:\Users\Gorjan\Desktop\dotnet2\wp_project\bin\Debug\netcoreapp2.1\Hr_management_system.runtimeconfig.dev.json
+C:\Users\Gorjan\Desktop\dotnet2\wp_project\bin\Debug\netcoreapp2.1\Hr_management_system.dll
+C:\Users\Gorjan\Desktop\dotnet2\wp_project\bin\Debug\netcoreapp2.1\Hr_management_system.pdb
+C:\Users\Gorjan\Desktop\dotnet2\wp_project\obj\Debug\netcoreapp2.1\Hr_management_system.csprojAssemblyReference.cache
+C:\Users\Gorjan\Desktop\dotnet2\wp_project\obj\Debug\netcoreapp2.1\Hr_management_system.csproj.CoreCompileInputs.cache
+C:\Users\Gorjan\Desktop\dotnet2\wp_project\obj\Debug\netcoreapp2.1\Hr_management_system.RazorAssemblyInfo.cache
+C:\Users\Gorjan\Desktop\dotnet2\wp_project\obj\Debug\netcoreapp2.1\Hr_management_system.RazorAssemblyInfo.cs
+C:\Users\Gorjan\Desktop\dotnet2\wp_project\obj\Debug\netcoreapp2.1\Hr_management_system.AssemblyInfoInputs.cache
+C:\Users\Gorjan\Desktop\dotnet2\wp_project\obj\Debug\netcoreapp2.1\Hr_management_system.AssemblyInfo.cs
+C:\Users\Gorjan\Desktop\dotnet2\wp_project\obj\Debug\netcoreapp2.1\Hr_management_system.RazorTargetAssemblyInfo.cache
+C:\Users\Gorjan\Desktop\dotnet2\wp_project\obj\Debug\netcoreapp2.1\Hr_management_system.dll
+C:\Users\Gorjan\Desktop\dotnet2\wp_project\obj\Debug\netcoreapp2.1\Hr_management_system.pdb
+C:\Users\Gorjan\Desktop\dotnet testing\wp_project\bin\Debug\netcoreapp2.1\Hr_management_system.deps.json
+C:\Users\Gorjan\Desktop\dotnet testing\wp_project\bin\Debug\netcoreapp2.1\Hr_management_system.runtimeconfig.json
+C:\Users\Gorjan\Desktop\dotnet testing\wp_project\bin\Debug\netcoreapp2.1\Hr_management_system.runtimeconfig.dev.json
+C:\Users\Gorjan\Desktop\dotnet testing\wp_project\bin\Debug\netcoreapp2.1\Hr_management_system.dll
+C:\Users\Gorjan\Desktop\dotnet testing\wp_project\bin\Debug\netcoreapp2.1\Hr_management_system.pdb
+C:\Users\Gorjan\Desktop\dotnet testing\wp_project\obj\Debug\netcoreapp2.1\Hr_management_system.csprojAssemblyReference.cache
+C:\Users\Gorjan\Desktop\dotnet testing\wp_project\obj\Debug\netcoreapp2.1\Hr_management_system.csproj.CoreCompileInputs.cache
+C:\Users\Gorjan\Desktop\dotnet testing\wp_project\obj\Debug\netcoreapp2.1\Hr_management_system.RazorAssemblyInfo.cache
+C:\Users\Gorjan\Desktop\dotnet testing\wp_project\obj\Debug\netcoreapp2.1\Hr_management_system.RazorAssemblyInfo.cs
+C:\Users\Gorjan\Desktop\dotnet testing\wp_project\obj\Debug\netcoreapp2.1\Hr_management_system.AssemblyInfoInputs.cache
+C:\Users\Gorjan\Desktop\dotnet testing\wp_project\obj\Debug\netcoreapp2.1\Hr_management_system.AssemblyInfo.cs
+C:\Users\Gorjan\Desktop\dotnet testing\wp_project\obj\Debug\netcoreapp2.1\Hr_management_system.RazorTargetAssemblyInfo.cache
+C:\Users\Gorjan\Desktop\dotnet testing\wp_project\obj\Debug\netcoreapp2.1\Hr_management_system.dll
+C:\Users\Gorjan\Desktop\dotnet testing\wp_project\obj\Debug\netcoreapp2.1\Hr_management_system.pdb

@@ -1,0 +1,87 @@
+﻿<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+    <script src="jquery.js"></script>
+</head>
+
+<body>
+    <button onclick="getData()">Get Data</button>
+    <script>
+
+        $(document).ready(function () {
+
+        });
+
+        function sendData() {
+
+            $.ajax({
+
+                url: "https://localhost:5001/api/employees/create",
+                type: "POST",
+                dataType: "json",
+                headers: {
+
+                    "Access-Control-Allow-Origin": "Allow",
+                    "Access-Control-Allow-Headers": "x-requested-with"
+                },
+                data: {
+                    Embg: "1212",
+                    FirstName: "Riste",
+                    LastName: "Pederot",
+                    JobId: 3,
+                    salary: 10000,
+                    DepartmentId: 1,
+                    DateHired: null
+                },
+                success: function (response) {
+
+                    console.log("OK " + "\n" + this.response);
+                }
+            });
+        }
+        function getData() {
+
+            $.ajax({
+
+                url: "http://localhost:5000/api/employees/employee/12345",
+                type: "GET",
+                dataType: "json",
+                // headers: {
+
+                //     "Access-Control-Allow-Origin": "*",
+                //     "Access-Control-Allow-Methods": "GET",
+                //     "Access-Control-Allow-Headers": "*",
+                // },
+                success: function (response) {
+
+                    console.log("OK " + "\n" + JSON.stringify(response));
+                }
+            });
+        }
+
+        // function getData() {
+
+        //     var oReq = new XMLHttpRequest();
+
+        //     oReq.onreadystatechange = function(){
+                
+        //         console.log(this.response)
+        //     }
+
+        //     oReq.open("GET", "http://localhost:5000/api/Employees/all");
+
+        //     // oReq.setRequestHeader("Access-Control-Allow-Origin", "*");
+        //     // oReq.setRequestHeader("Access-Control-Request-Headers", "x-requested-with");
+        //     oReq.setRequestHeader("Content-Type", "application/json");
+
+        //     oReq.send();
+        // }
+        
+    </script>
+</body>
+
+</html>
